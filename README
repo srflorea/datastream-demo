@@ -6,5 +6,5 @@ and draws it using Javascript.
 Steps to run it:
 1. Build the sources: gradle build
     - it will generate a jar file
-2. Run the jur file: java -jar datastream.jar
+2. Run the jar file: java -jar datastream.jar
     - it will run a server that will listen on port 3000
