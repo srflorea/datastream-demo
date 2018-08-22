@@ -8,3 +8,4 @@ Steps to run it:
     - it will generate a jar file
 2. Run the jar file: java -jar datastream.jar
     - it will run a server that will listen on port 3000
+3. Go to http://localhost:3000/ for accessing the web interface
