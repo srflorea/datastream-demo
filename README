@@ -1,0 +1,10 @@
+Datastream Demo
+
+This project is a demo that retrieves a stream of data from Spring Boot sever
+and draws it using Javascript.
+
+Steps to run it:
+1. Build the sources: gradle build
+    - it will generate a jar file
+2. Run the jur file: java -jar datastream.jar
+    - it will run a server that will listen on port 3000
